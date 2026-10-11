@@ -1,0 +1,23 @@
+[
+  {
+    "id": "final",
+    "title": "Винни — полная песня",
+    "subtitle": "15 секунд, все три сцены",
+    "duration": "0:15",
+    "src": "videos/winnie-final-15s.mp4"
+  },
+  {
+    "id": "version",
+    "title": "Винни — первые две сцены",
+    "subtitle": "10 секунд, улучшенная версия",
+    "duration": "0:10",
+    "src": "videos/winnie-10s.mp4"
+  },
+  {
+    "id": "original",
+    "title": "Кот — оригинал",
+    "subtitle": "Оригинальное видео",
+    "duration": "0:15",
+    "src": "videos/cat-original.mp4"
+  }
+]
